@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="UiPath Business Analyst Skill" width="100%" />
+</p>
+
 # UiPath Business Analyst Skill
 
 > **AI-Native Automation Business Analyst** — Enterprise-grade, audit-ready documentation and analysis powered by official UiPath methodology.
